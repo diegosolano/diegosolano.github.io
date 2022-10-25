@@ -67,7 +67,7 @@ body {
     font-family: Helvetica_Thin, Helvetica, sans-serif;
 }
 html {
-	background:#efefef url(../images/white_texture.png) repeat top left;
+	background:#efefef;
 	cursor:default;
 	color: #555;
 }
